@@ -56,7 +56,7 @@ git clone https://github.com/adnan-bin-wahid/User-Role-Management.git
 
 ### 2. Navigate to the Project Directory
 ```bash
-cd user-role-management
+cd User-Role-Management
 ```
 
 ### 3. Run the Application
